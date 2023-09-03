@@ -1,0 +1,10 @@
+/venv
+*.log
+*.pyc
+
+settings.py
+settings_dev.py
+
+logs/
+.idea/
+.DS_Store
